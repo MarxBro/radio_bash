@@ -11,7 +11,7 @@ http://sfstream1.somafm.com:7000@Boot Liquor@Americana Roots music for Cowhands,
 http://sfstream1.somafm.com:2200@PopTron@Electropop and indie dance rock with sparkle and pop. 
 http://sfstream1.somafm.com:8850@Suburbs of Goa@Desi-influenced Asian world beats and beyond.  
 http://uwstream2.somafm.com:8604@Sonic Universe@Transcending the world of jazz with eclectic, avant-garde takes on tradition.  
-http://sfstream1.somafm.com:2800@Deep Space One@Deep ambient electronic, experimental and space music. A soundtrack for inner and outer space exploration.  
+http://sfstream1.somafm.com:2800@Deep Space One@Deep ambient electronic, experimental and space music. A soundtrack for inner and outer space exploration. 
 http://sfstream1.somafm.com:8500@Illinois Street Lounge@Classic bachelor pad, playful exotica and vintage music of tomorrow.  
 http://sfstream1.somafm.com:2504@The Trip@Progressive house / trance. Tip top tunes.  
 http://uwstream2.somafm.com:2668@cliqhop idm@Blipsnbeeps backed mostly w/beats. Intelligent Dance Music.  
@@ -28,3 +28,39 @@ http://sfstream1.somafm.com:8700@Covers@Just covers. Songs you know by artists y
 http://uwstream2.somafm.com:2040@SF 10-33@Ambient music mixed with the sounds of San Francisco public safety radio traffic.  
 http://sfstream1.somafm.com:5100@Earwaves@Spanning the history of electronic and experimental music from the early pioneers to the latest innovators.  
 http://uwstream2.somafm.com:5400@Iceland Airwaves@Music from bands who will be performing at Iceland Airwaves [explicit]
+http://78.46.245.100:9270@RADIO TANGO 1@Nothing
+#http://smoothjazz.com/streams/smoothjazz_128.pls@RADIO_Jazz_1@Nothing
+#http://listen.sky.fm/public1/pianojazz.pls@RADIO_Jazz_2@Nothing
+#http://listen.sky.fm/public1/smoothjazz.pls@RADIO_Jazz_3@Nothing
+#http://somafm.com/sonicuniverse.pls@RADIO_Jazz_4@Nothing
+#http://bluefm.net/listen.pls@RADIO_Jazz_5@Nothing
+#http://sc-rly.181.fm:80/stream/1094@RADIO_ROCK_1@Nothing
+#http://www.977music.com/tunein/web/classicrock.asx@RADIO_ROCK_2@Nothing
+#http://listen.sky.fm/public3/the80s.pls@RADIO_ROCK_3@Nothing
+#http://somafm.com/covers.pls@RADIO_ROCK_4@Nothing
+#http://provisioning.streamtheworld.com/pls/KDFCFM.pls@RADIO_CLASICA_1@Nothing
+#http://media-ice.musicradio.com/ClassicFMMP3.m3u@RADIO_CLASICA_2@Nothing
+#http://www.ibiblio.org/wcpe/wcpe.pls@RADIO_CLASICA_3@Nothing
+#http://cinemix.us/cine.asx@RADIO_CLASICA_4@Nothing
+#http://listen.sky.fm/public1/soundtracks.pls@RADIO_CLASICA_5@Nothing
+#http://listen.sky.fm/public1/classical.pls@RADIO_CLASICA_6@Nothing
+#http://www.radioparadise.com/musiclinks/rp_128aac.m3u@RADIO_ROCKYPOPYN_1@Nothing
+#http://yp.shoutcast.com/sbin/tunein-station.pls?id=1280356@RADIO_ROCKYPOPYN_2@Nothing
+#http://yp.shoutcast.com/sbin/tunein-station.pls?id=1377285@RADIO_ROCKYPOPYN_3@Nothing
+#http://listen.sky.fm/public1/tophits.pls@RADIO_ROCKYPOPYN_4@Nothing
+#http://somafm.com/indiepop.pls@RADIO_ROCKYPOPYN_5@Nothing
+#http://somafm.com/poptron.pls@RADIO_ROCKYPOPYN_6@Nothing
+#http://yp.shoutcast.com/sbin/tunein-station.pls?id=1275050@RADIO_CHILL_1@Nothing
+#http://yp.shoutcast.com/sbin/tunein-station.pls?id=1288934@RADIO_CHILL_2@Nothing
+#http://somafm.com/beatblender.pls@RADIO_CHILL_3@Nothing
+#http://somafm.com/secretagent.pls@RADIO_CHILL_4@Nothing
+#http://somafm.com/groovesalad.pls@RADIO_CHILL_5@Nothing
+#http://somafm.com/illstreet.pls@RADIO_CHILL_6@Nothing
+#http://somafm.com/dronezone.pls@RADIO_TECNOTRON_1@Nothing
+#http://somafm.com/spacestation.pls@RADIO_TECNOTRON_2@Nothing
+#http://somafm.com/cliqhop.pls@RADIO_TECNOTRON_3@Nothing
+#http://somafm.com/brfm.pls@RADIO_TECNOTRON_4@Nothing
+#http://jbstream.net/tunein.php/blackoutworm/playlist.asx@RADIO_TECNOTRON_5@Nothing
+#http://jblive.fm/@RADIO_CRAP_1@Nothing
+#http://sh4.audio-stream.com/tunein.php/pleonard/playlist.pls@RADIO_CRAP_2@Nothing
+#http://wbez.ic.llnwd.net/stream/wbez_91_5_fm.pls@RADIO_CRAP_3@Nothing

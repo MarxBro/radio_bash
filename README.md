@@ -27,3 +27,7 @@ Values in it are separated by **@**, delimiting fields as follow:
 * Description
 
 
+-------------------------------------------------------
+```bash
+paste -d"@" urls descriptions >> STATIONS.txt 
+```

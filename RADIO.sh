@@ -3,7 +3,6 @@
 # RADIO.sh -> Radio in your terminal.
 ######################################################################
 
-
 STATION_FILE="STATIONS.txt"
 
 function get_options_from_file {
@@ -33,7 +32,6 @@ function line_draw {
 }
 
 function do_menu {
-
     clear &&
     line_draw &&
     echo 'Quit with CTRL+C.' &&
@@ -43,7 +41,7 @@ function do_menu {
 
     select opt in ${OPTIONS[@]}
     do
-        opt_name=$( echo $opt | sed 's/_/ /g' )
+        opt_name="$( echo $opt | sed 's/_/ /g' )"
         URL=$(get_url_of_opt $opt_name)
         DESCRIPTION=$(get_description $opt_name)
         echo $DESCRIPTION && echo $URL && mplayer $URL &> /dev/null
@@ -53,8 +51,6 @@ function do_menu {
 
 do_menu
 exit 0;
-
-
 
 # Programado por MarxBro.
     #Compartir con la licencia WTFPL.
