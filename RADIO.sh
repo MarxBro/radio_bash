@@ -1,13 +1,12 @@
 #!/bin/bash
-######################################################################
-# RADIO.sh -> Radio in your terminal.
-######################################################################
+#######################################
+# RADIO.sh -> Radio in your terminal. #
+#######################################
 
 STATION_FILE="STATIONS.txt"
 
 function get_options_from_file {
     LISTA=$( awk -F'@' '!/^#/ { OFS="@"; print $2 }' $STATION_FILE | sed 's/ /_/g')
-    #LISTA=$( awk -F'@' '!/^#/ { OFS=" "; print "\x27" $2 "\x27" }' $STATION_FILE )
     echo $LISTA
 }
 
@@ -17,15 +16,13 @@ function get_url_of_opt {
 }
 
 function get_description {
-    RADIO_D=$( grep "$1" $STATION_FILE | awk -F'@' '{ print $3 }' )
+    RADIO_D=$( grep $1 $STATION_FILE | awk -F'@' '{ print $3 }' )
     echo $RADIO_D
 }
 
 declare -a OPTIONS=( "$(get_options_from_file $STATION_FILE | sed 's/@/ /g' )" )
 
-#echo ${OPTIONS[*]} # debug stuff
-
-#This is the best function I ever programmed.
+#This is the best function I ever programmed. ^_^
 function line_draw {
     LINE='----------------------------------'
     echo $LINE
@@ -52,5 +49,7 @@ function do_menu {
 do_menu
 exit 0;
 
-# Programado por MarxBro.
-    #Compartir con la licencia WTFPL.
+#####################################
+# Programado por MarxBro.           #
+# Compartir bajo la licencia WTFPL. #
+#####################################

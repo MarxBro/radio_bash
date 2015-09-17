@@ -12,6 +12,8 @@ Los valores en este último están separados por **@** y delimitan los siguiente
 * Nombre
 * Descripcion
 
+Algunas radios pueden no funcionar y el archivo STATIONS necesita una actualizacion.
+
 -------------------------------------------------------
 
 ## English
@@ -27,7 +29,4 @@ Values in it are separated by **@**, delimiting fields as follow:
 * Description
 
 
--------------------------------------------------------
-```bash
-paste -d"@" urls descriptions >> STATIONS.txt 
-```
+Some radios may not work and the file need an update.

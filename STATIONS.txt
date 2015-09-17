@@ -1,66 +1,122 @@
 http://uwstream1.somafm.com:80@Groove Salad@A nicely chilled plate of ambient/downtempo beats and grooves.  
-http://uwstream2.somafm.com:80@Drone Zone@Served best chilled, safe with most medications. Atmospheric textures with minimal beats.   
-http://uwstream2.somafm.com:2666@Space Station Soma@Tune in, turn on, space out. Spaced-out ambient and mid-tempo electronica.  
-http://sfstream1.somafm.com:8090@Indie Pop Rocks!@New and classic favorite indie pop tracks.  
+http://142.4.202.125:8006/128mp3#Gothic_Radio@Gothic_Radio@Found in some gist.
+http://149.13.0.80:80/nrj.ogg@Dunno4@Found in some gist.
+http://173.249.145.57:7202@Dunno6@Found in some gist.
+http://178.63.77.4:1707/stream/3/@Dunno11@Found in some gist.
+http://193.108.24.18x8000/veselina.m3u@veselina@None, russian stuff
+http://193.108.24.18x8000/vitosha.m3u@vitosha@None, russian stuff
+http://193.108.24.21x8000/fresh.m3u@Fresh@None, russian stuff
+http://193.108.24.21x8000/melody.ogg.m3u@Melody@None, russian stuff
+http://198.178.123.5:7016@Dunno12@Found in some gist.
+http://198.245.50.175:8250@Dunno9@Found in some gist.
+http://198.27.101.176:7446@arabesk@None, found somewhere.
+http://198.27.101.189:8300@sky@None, found somewhere.
+http://38.96.148.18:8127@imbat@None, found somewhere.
+http://46.165.203.195:80/club_low.aac#Techno4EverFM@Techno4EverFM@Found in some gist.
+http://50-7-66-170.webnow.net.br:80/radiorock.mp3@radiorock@Found in some gist.
+http://50.7.56.2:9002@Dunno8@Found in some gist.
+http://50.7.70.130:8224/stream@Dunno7@Found in some gist.
+http://62.204.145.218x8000/city64.m3u@City@None, russian stuff
+http://67.205.111.204x8000/bg.m3u@tatko@None, russian stuff
+http://69.64.92.43:9018@Dunno10@Found in some gist.
+http://77.70.53.35x8000/listen.pls@I Hate Mondays Radio@None, russian stuff
+http://78.46.245.100:9270@TANGO1@Nothing
+http://79.111.119.111:9105@Dunno12@Found in some gist.
+http://80.237.159.58:80/lounge-at@lounge-at@Found in some gist.
+http://80.72.68.217/bgradio.ogg.m3u@bgradio@None, russian stuff
+http://80.72.68.217/nrj.ogg.m3u@Energy@None, russian stuff
+http://80.72.68.217/radio1.ogg.m3u@radio1@None, russian stuff
+http://80.72.68.217/radio1rock.ogg.m3u@radio1rock@None, russian stuff
+http://80.72.68.217/veronika.ogg.m3u@veronika@None, russian stuff
+http://88.150.190.187:8020@ask@None, found somewhere.
+http://88.150.190.188:1071@avrasya@None, found somewhere.
+http://88.213.199.204x8070/listen.pls@Black Side@None, russian stuff
+http://89.190.212.173x8000/listen.pls@pomahtuka@None, russian stuff
+http://91.121.91.172x8557/listen.pls@Listenmpl3@None, russian stuff
+http://94.76.206.148:8500@Dunno5@Found in some gist.
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_intl_lc_5live_p@bbcmedia@Found in some gist.
 http://dallas68.somafm.com:80@Christmas Lounge@Chilled holiday grooves and classic winter lounge tracks. (Kid and Parent safe!)  
-http://uwstream2.somafm.com:9016@Secret Agent@ The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too!  
-http://sfstream1.somafm.com:8800@Lush@Sensuous and mellow vocals, mostly female, with an electronic influence.  
-http://sfstream1.somafm.com:8884@Underground 80s@Early 80s UK Synthpop and a bit of New Wave.  
-http://sfstream1.somafm.com:8384@Beat Blender@A late night blend of deep-house and downtempo chill.  
-http://sfstream1.somafm.com:7000@Boot Liquor@Americana Roots music for Cowhands, Cowpokes and Cowtippers  
-http://sfstream1.somafm.com:2200@PopTron@Electropop and indie dance rock with sparkle and pop. 
-http://sfstream1.somafm.com:8850@Suburbs of Goa@Desi-influenced Asian world beats and beyond.  
-http://uwstream2.somafm.com:8604@Sonic Universe@Transcending the world of jazz with eclectic, avant-garde takes on tradition.  
-http://sfstream1.somafm.com:2800@Deep Space One@Deep ambient electronic, experimental and space music. A soundtrack for inner and outer space exploration. 
-http://sfstream1.somafm.com:8500@Illinois Street Lounge@Classic bachelor pad, playful exotica and vintage music of tomorrow.  
-http://sfstream1.somafm.com:2504@The Trip@Progressive house / trance. Tip top tunes.  
-http://uwstream2.somafm.com:2668@cliqhop idm@Blipsnbeeps backed mostly w/beats. Intelligent Dance Music.  
-http://uwstream2.somafm.com:8400@Dub Step Beyond@Dubstep, Dub and Deep Bass. May damage speakers at high volume.  
-http://sfstream1.somafm.com:9090@BAGeL Radio@What alternative rock radio should sound like.  
 http://dallas69.somafm.com:80@Xmas in Frisko@SomaFMs wacky and eclectic holiday mix. Not for the easily offended.  
-http://sfstream1.somafm.com:8900@Digitalis@Digitally affected analog rock to calm the agitated heart.  
-http://sfstream1.somafm.com:7400@Folk Forward@Indie Folk, Alt-folk and the occasional folk classics.  
-http://sfstream1.somafm.com:6200@DEF CON Radio@Music for Hacking. From DEF CON 21 in Las Vegas.  
 http://dallas70.somafm.com:80@Christmas Rocks@Have your self an indie/alternative holiday season!  
-http://sfstream1.somafm.com:8300@Doomed@Dark industrial/ambient music for tortured souls.  
-http://sfstream1.somafm.com:8040@Black Rock FM@From the Playa to the world, for the 2013 Burning Man festival.  
-http://sfstream1.somafm.com:8700@Covers@Just covers. Songs you know by artists you dont. Weve got you covered.  
-http://uwstream2.somafm.com:2040@SF 10-33@Ambient music mixed with the sounds of San Francisco public safety radio traffic.  
+http://ice.abradio.cz:80/blanikfm128.mp3@blanikfm128@Found in some gist.
+http://icecast2.pulsradio.com:80/pulsHD.mp3#Pulse-Radio@Pulse-Radio@Found in some gist.
+http://jblive.fm/@CRAP1@Nothing
+http://laissezradio.com:8880/music@laissezradio@Found on some gist.
+http://listen.radionomy.com/abacusfm-mozart-symphony@abacusfm-mozart-symphony@Found in some gist.
+http://live.profm.bgx8000/black.mp3.m3u@Pro FM Black@None, russian stuff
+http://live.profm.bgx8000/blues.mp3.m3u@Pro FM Rhythm and Blues@None, russian stuff
+http://live.profm.bgx8000/chillout.mp3.m3u@Pro FM Chillout@None, russian stuff
+http://live.profm.bgx8000/gold.mp3.m3u@Pro FM Gold@None, russian stuff
+http://live.profm.bgx8000/love.mp3.m3u@Pro FM Love@None, russian stuff
+http://live.profm.bgx8000/oldies.mp3.m3u@Pro FM Oldies@None, russian stuff
+http://live.profm.bgx8000/rock.mp3.m3u@Pro FM Rock@None, russian stuff
+http://livestreaming2.esradio.fm:8000/stream64.mp3@stream64@Found in some gist.
+http://mp3.orbitel.bgx8000/darik.m3u@gxxxxdarik@None, russian stuff
+http://pulsar.atlantis.bgx8000/fmplus.ogg.m3u@fmplus FM@None, russian stuff
+http://pulsar.atlantis.bgx8000/inforadio.ogg.m3u@Star FM@None, russian stuff
+http://pulsar.atlantis.bgx8000/njoy.ogg.m3u@NxJoy@None, russian stuff
+http://pulsar.atlantis.bgx8000/zrock.ogg.m3u@ZxRock@None, russian stuff
+http://radigo01.nci.de:8000/high_q_fallback@high_q_fallback@Found in some gist.
+http://rs21.stream24.net:80/stream@Dunno3@Found in some gist.
+http://rs26.stream24.net:80/stream@Dunno1@Found in some gist.
+http://rs5.stream24.net:8000/stream@Dunno2@Found in some gist.
+http://s2.stationplaylist.com:9350/listen.aac#MetalEdgeRadio@MetalEdgeRadio@Found in some gist.
+http://sfstream1.somafm.com:2200@PopTron@Electropop and indie dance rock with sparkle and pop. 
+http://sfstream1.somafm.com:2504@The Trip@Progressive house / trance. Tip top tunes.  
+http://sfstream1.somafm.com:2800@Deep Space One@Deep ambient electronic, experimental and space music. A soundtrack for inner and outer space exploration. 
 http://sfstream1.somafm.com:5100@Earwaves@Spanning the history of electronic and experimental music from the early pioneers to the latest innovators.  
+http://sfstream1.somafm.com:6200@DEF CON Radio@Music for Hacking. From DEF CON 21 in Las Vegas.  
+http://sfstream1.somafm.com:7000@Boot Liquor@Americana Roots music for Cowhands, Cowpokes and Cowtippers  
+http://sfstream1.somafm.com:7400@Folk Forward@Indie Folk, Alt-folk and the occasional folk classics.  
+http://sfstream1.somafm.com:8040@Black Rock FM@From the Playa to the world, for the 2013 Burning Man festival.  
+http://sfstream1.somafm.com:8090@Indie Pop Rocks!@New and classic favorite indie pop tracks.  
+http://sfstream1.somafm.com:8300@Doomed@Dark industrial/ambient music for tortured souls.  
+http://sfstream1.somafm.com:8384@Beat Blender@A late night blend of deep-house and downtempo chill.  
+http://sfstream1.somafm.com:8500@Illinois Street Lounge@Classic bachelor pad, playful exotica and vintage music of tomorrow.  
+http://sfstream1.somafm.com:8700@Covers@Just covers. Songs you know by artists you dont. Weve got you covered.  
+http://sfstream1.somafm.com:8800@Lush@Sensuous and mellow vocals, mostly female, with an electronic influence.  
+http://sfstream1.somafm.com:8850@Suburbs of Goa@Desi-influenced Asian world beats and beyond.  
+http://sfstream1.somafm.com:8884@Underground 80s@Early 80s UK Synthpop and a bit of New Wave.  
+http://sfstream1.somafm.com:8900@Digitalis@Digitally affected analog rock to calm the agitated heart.  
+http://sfstream1.somafm.com:9090@BAGeL Radio@What alternative rock radio should sound like.  
+http://stream-bg-02.radiotangra.com:8000/Tangra-middle@Tangra-middle@Found in some gist.
+http://stream.100000000000000.com:8000/HITS.ogg@Hits@Found in some gist.
+http://stream.bnr.bg:8002/horizont.mp3?type=.mp3/;stream.mp3@horizont@Found in some gist.
+http://stream.bnr.bg:8103/botev_low.mp3#Hristo_Botev@Hristo@Found in some gist.
+http://stream.laut.fm:80/rpm-rock-metal-gothik#RPM-Metal-Gothic@RPM-Metal-Gothic@Found in some gist.
+http://stream.reakcia.net/live.m3u@stuff@None, russian stuff
+http://stream4.topradio.be:8000/zenfm.mp3@zenfm@Found in some gist.
+http://streamhub.radioinfoweb.net:8000/chill#SpaceChill@SpaceChill@Found in some gist.
+http://streaming201.radionomy.com:80/SlowRadioCom@SlowRadioCom@Found in some gist.
+http://streaming202.radionomy.com:80/ALOUNGEDREAM-Relax24H@ALOUNGEDREAM-Relax24H@Found in some gist.
+http://streaming203.radionomy.com:80/OceanBreeze@OceanBreeze@Found in some gist.
+http://streaming204.radionomy.com:80/Goth-N-Metal#GothNMetal@GothNMetal@Found in some gist.
+http://streaming204.radionomy.com:80/Instrumental-Hits#Instrumental_Hits@Instrumental_Hits@Found in some gist.
+http://streaming204.radionomy.com:80/LebaneseMetalStation#LebaneseMetalRadio@LebaneseMetalRadio@Found in some gist.
+http://streaming204.radionomy.com:80/Love-Radio@Love-Radio@Found in some gist.
+http://streaming204.radionomy.com:80/Nature-1-Max#Nature-1-Max@Nature-1-Max@Found in some gist.
+http://streaming204.radionomy.com:80/VIKLAND@VIKLAND@Found on some gist.
+http://streaming205.radionomy.com:80/Legion-Metal#LegionRadio@LegionRadio@Found in some gist.
+http://streaming205.radionomy.com:80/Lounge44@Lounge44@Found in some gist.
+http://streaming205.radionomy.com:80/Soft@Soft@Found in some gist.
+http://streaming205.radionomy.com:80/Sophisticated-Easy-Sounds@Sophisticated-Easy-Sounds@Found in some gist.
+http://streaming205.radionomy.com:80/TheOasis-ModernEasyListening@TheOasis-ModernEasyListening@Found in some gist.
+http://streaming206.radionomy.com:80/hits-on-guitar@hits-on-guitar@Found in some gist.
+http://streaming206.radionomy.com:80/RadioMetal#RadioMetal@RadioMetal@Found in some gist.
+http://streaming207.radionomy.com:80/easy-rock-paradise@easy-rock-paradise@Found in some gist.
+http://streaming207.radionomy.com:80/EasyTime@EasyTime@Found in some gist.
+http://streaming207.radionomy.com:80/FolkMetalRadio#FolkMetalRadio@FolkMetalRadio@Found in some gist.
+http://streaming207.radionomy.com:80/RADIO-GRAMAX@RADIO-GRAMAX@Found in some gist.
+http://streaming303.radionomy.com:80/mistyradio@mistyradio@Found in some gist.
+http://streaming304.radionomy.com:80/enjoy.mp3@enjoy@Found in some gist.
+http://streamxbgx01.radiotangra.comx8000/Tangraxhigh.m3u@tangra@None, russian stuff
+http://swisslounge.net:8030/lounge-radio@lounge-radio@Found in some gist.
+http://uwstream2.somafm.com:2040@SF 10-33@Ambient music mixed with the sounds of San Francisco public safety radio traffic.  
+http://uwstream2.somafm.com:2666@Space Station Soma@Tune in, turn on, space out. Spaced-out ambient and mid-tempo electronica.  
+http://uwstream2.somafm.com:2668@cliqhop idm@Blipsnbeeps backed mostly w/beats. Intelligent Dance Music.  
 http://uwstream2.somafm.com:5400@Iceland Airwaves@Music from bands who will be performing at Iceland Airwaves [explicit]
-http://78.46.245.100:9270@RADIO TANGO 1@Nothing
-#http://smoothjazz.com/streams/smoothjazz_128.pls@RADIO_Jazz_1@Nothing
-#http://listen.sky.fm/public1/pianojazz.pls@RADIO_Jazz_2@Nothing
-#http://listen.sky.fm/public1/smoothjazz.pls@RADIO_Jazz_3@Nothing
-#http://somafm.com/sonicuniverse.pls@RADIO_Jazz_4@Nothing
-#http://bluefm.net/listen.pls@RADIO_Jazz_5@Nothing
-#http://sc-rly.181.fm:80/stream/1094@RADIO_ROCK_1@Nothing
-#http://www.977music.com/tunein/web/classicrock.asx@RADIO_ROCK_2@Nothing
-#http://listen.sky.fm/public3/the80s.pls@RADIO_ROCK_3@Nothing
-#http://somafm.com/covers.pls@RADIO_ROCK_4@Nothing
-#http://provisioning.streamtheworld.com/pls/KDFCFM.pls@RADIO_CLASICA_1@Nothing
-#http://media-ice.musicradio.com/ClassicFMMP3.m3u@RADIO_CLASICA_2@Nothing
-#http://www.ibiblio.org/wcpe/wcpe.pls@RADIO_CLASICA_3@Nothing
-#http://cinemix.us/cine.asx@RADIO_CLASICA_4@Nothing
-#http://listen.sky.fm/public1/soundtracks.pls@RADIO_CLASICA_5@Nothing
-#http://listen.sky.fm/public1/classical.pls@RADIO_CLASICA_6@Nothing
-#http://www.radioparadise.com/musiclinks/rp_128aac.m3u@RADIO_ROCKYPOPYN_1@Nothing
-#http://yp.shoutcast.com/sbin/tunein-station.pls?id=1280356@RADIO_ROCKYPOPYN_2@Nothing
-#http://yp.shoutcast.com/sbin/tunein-station.pls?id=1377285@RADIO_ROCKYPOPYN_3@Nothing
-#http://listen.sky.fm/public1/tophits.pls@RADIO_ROCKYPOPYN_4@Nothing
-#http://somafm.com/indiepop.pls@RADIO_ROCKYPOPYN_5@Nothing
-#http://somafm.com/poptron.pls@RADIO_ROCKYPOPYN_6@Nothing
-#http://yp.shoutcast.com/sbin/tunein-station.pls?id=1275050@RADIO_CHILL_1@Nothing
-#http://yp.shoutcast.com/sbin/tunein-station.pls?id=1288934@RADIO_CHILL_2@Nothing
-#http://somafm.com/beatblender.pls@RADIO_CHILL_3@Nothing
-#http://somafm.com/secretagent.pls@RADIO_CHILL_4@Nothing
-#http://somafm.com/groovesalad.pls@RADIO_CHILL_5@Nothing
-#http://somafm.com/illstreet.pls@RADIO_CHILL_6@Nothing
-#http://somafm.com/dronezone.pls@RADIO_TECNOTRON_1@Nothing
-#http://somafm.com/spacestation.pls@RADIO_TECNOTRON_2@Nothing
-#http://somafm.com/cliqhop.pls@RADIO_TECNOTRON_3@Nothing
-#http://somafm.com/brfm.pls@RADIO_TECNOTRON_4@Nothing
-#http://jbstream.net/tunein.php/blackoutworm/playlist.asx@RADIO_TECNOTRON_5@Nothing
-#http://jblive.fm/@RADIO_CRAP_1@Nothing
-#http://sh4.audio-stream.com/tunein.php/pleonard/playlist.pls@RADIO_CRAP_2@Nothing
-#http://wbez.ic.llnwd.net/stream/wbez_91_5_fm.pls@RADIO_CRAP_3@Nothing
+http://uwstream2.somafm.com:80@Drone Zone@Served best chilled, safe with most medications. Atmospheric textures with minimal beats.   
+http://uwstream2.somafm.com:8400@Dub Step Beyond@Dubstep, Dub and Deep Bass. May damage speakers at high volume.  
+http://uwstream2.somafm.com:8604@Sonic Universe@Transcending the world of jazz with eclectic, avant-garde takes on tradition.  
+http://uwstream2.somafm.com:9016@Secret Agent@The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too!  
+http://www.ibiblio.org/wcpe/wcpe.pls@CLASICA3@Nothing
