@@ -7,8 +7,10 @@ STATION_FILE="STATIONS.txt"
 
 function WIDTH {
   NRO_COL=$(tput cols)
+  echo "Columnas $NRO_COL"
   export COLUMNS=$NRO_COL
 }
+
 
 function get_options_from_file {
     LISTA=$( awk -F'@' '!/^#/ { OFS="@"; print $2 }' $STATION_FILE | sed 's/ /_/g')
@@ -36,7 +38,7 @@ function line_draw {
 function do_menu {
     clear &&
     line_draw &&
-    #Try using all the width of the terminal (we are going to need this !).
+    #Try using all the width of the terminal (we are going to really need this).
     WIDTH &&
     echo 'Quit with CTRL+C.' &&
     echo 'q for menu again.' 
