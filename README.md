@@ -29,4 +29,4 @@ Values in it are separated by **@**, delimiting fields as follow:
 * Description
 
 
-Some radios may not work and the file need an update.
+Some radios may not work and the STATIONS file needs an update.
