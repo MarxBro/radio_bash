@@ -56,12 +56,12 @@ http://icecast2.pulsradio.com:80/pulsHD.mp3#Pulse-Radio@Pulse-Radio@Found in som
 http://jblive.fm/@CRAP1@Nothing
 http://laissezradio.com:8880/music@laissezradio@Found on some gist.
 http://listen.radionomy.com/abacusfm-mozart-symphony@abacusfm-mozart-symphony@Found in some gist.
-http://live.profm.bgx8000/black.mp3.m3u@Pro FM Black@None, russian stuff
-http://live.profm.bgx8000/blues.mp3.m3u@Pro FM Rhythm and Blues@None, russian stuff
-http://live.profm.bgx8000/chillout.mp3.m3u@Pro FM Chillout@None, russian stuff
-http://live.profm.bgx8000/gold.mp3.m3u@Pro FM Gold@None, russian stuff
-http://live.profm.bgx8000/love.mp3.m3u@Pro FM Love@None, russian stuff
-http://live.profm.bgx8000/oldies.mp3.m3u@Pro FM Oldies@None, russian stuff
+http://live.profm.bgx8000/black.mp3.m3u@6 Pro FM Black@None, russian stuff
+http://live.profm.bgx8000/blues.mp3.m3u@5 Pro FM Rhythm and Blues@None, russian stuff
+http://live.profm.bgx8000/chillout.mp3.m3u@4 Pro FM Chillout@None, russian stuff
+http://live.profm.bgx8000/gold.mp3.m3u@3 Pro FM Gold@None, russian stuff
+http://live.profm.bgx8000/love.mp3.m3u@2 Pro FM Love@None, russian stuff
+http://live.profm.bgx8000/oldies.mp3.m3u@1 Pro FM Oldies@None, russian stuff
 http://live.profm.bgx8000/rock.mp3.m3u@Pro FM Rock@None, russian stuff
 http://livestreaming2.esradio.fm:8000/stream64.mp3@stream64@Found in some gist.
 http://mp3.orbitel.bgx8000/darik.m3u@gxxxxdarik@None, russian stuff

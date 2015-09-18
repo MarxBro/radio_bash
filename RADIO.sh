@@ -21,7 +21,7 @@ function get_url_of_opt {
 }
 
 function get_description {
-    RADIO_D=$( grep $1 $STATION_FILE | awk -F'@' '{ print $3 }' )
+    RADIO_D=$( grep -F $1 $STATION_FILE | awk -F'@' '{ print $3 }' )
     echo $RADIO_D
 }
 
@@ -45,10 +45,10 @@ function do_menu {
 
     select opt in ${OPTIONS[@]}
     do
-        opt_name="$( echo $opt | sed 's/_/ /g' )"
+        opt_name=$( echo $opt | sed 's/_/ /g' )
         URL=$(get_url_of_opt $opt_name)
-        DESCRIPTION=$(get_description $opt_name)
-        echo $DESCRIPTION && echo $URL && mplayer $URL &> /dev/null
+        DESCRIPTION=$(get_description $URL)
+        echo $DESCRIPTION && mplayer $URL &> /dev/null
         do_menu
     done 
 }
