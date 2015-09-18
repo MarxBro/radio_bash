@@ -16,12 +16,12 @@ function get_options_from_file {
 }
 
 function get_url_of_opt {
-    RADIO_URL=$( grep $1 $STATION_FILE | awk -F'@' '{print $1}' )
+    RADIO_URL=$( grep -a $1 $STATION_FILE | awk -F'@' '{print $1}' )
     echo $RADIO_URL
 }
 
 function get_description {
-    RADIO_D=$( grep -F $1 $STATION_FILE | awk -F'@' '{ print $3 }' )
+    RADIO_D=$( grep -F -a $1 $STATION_FILE | awk -F'@' '{ print $3 }' )
     echo $RADIO_D
 }
 
