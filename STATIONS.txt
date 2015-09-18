@@ -1,8 +1,9 @@
-http://uwstream1.somafm.com:80@Groove Salad@A nicely chilled plate of ambient/downtempo beats and grooves.  
 http://142.4.202.125:8006/128mp3#Gothic_Radio@Gothic_Radio@Found in some gist.
 http://149.13.0.80:80/nrj.ogg@Dunno4@Found in some gist.
 http://173.249.145.57:7202@Dunno6@Found in some gist.
+http://178.33.25.204:8001/stream@radiomai@Radio MAI ZGZ
 http://178.63.77.4:1707/stream/3/@Dunno11@Found in some gist.
+http://188.226.176.70:8000/killallradio@killall@KillAll Radio
 http://193.108.24.18x8000/veselina.m3u@veselina@None, russian stuff
 http://193.108.24.18x8000/vitosha.m3u@vitosha@None, russian stuff
 http://193.108.24.21x8000/fresh.m3u@Fresh@None, russian stuff
@@ -32,13 +33,25 @@ http://88.150.190.187:8020@ask@None, found somewhere.
 http://88.150.190.188:1071@avrasya@None, found somewhere.
 http://88.213.199.204x8070/listen.pls@Black Side@None, russian stuff
 http://89.190.212.173x8000/listen.pls@pomahtuka@None, russian stuff
+http://91.121.134.23:8000/radioalmenara.mp3@ralmenara@Radio Almenara Madrid
 http://91.121.91.172x8557/listen.pls@Listenmpl3@None, russian stuff
 http://94.76.206.148:8500@Dunno5@Found in some gist.
+http://airean.net:9001/zintzilik.ogg@zinzilik@Zintzilik Irratia Orereta
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_intl_lc_5live_p@bbcmedia@Found in some gist.
 http://dallas68.somafm.com:80@Christmas Lounge@Chilled holiday grooves and classic winter lounge tracks. (Kid and Parent safe!)  
 http://dallas69.somafm.com:80@Xmas in Frisko@SomaFMs wacky and eclectic holiday mix. Not for the easily offended.  
 http://dallas70.somafm.com:80@Christmas Rocks@Have your self an indie/alternative holiday season!  
+http://giss.tv:8000/RadioBala.mp3@bala@Radio Bala Manresa
+http://giss.tv:8000/RadioKras.mp3@rkras@Radio Kras Xixón	
+http://giss.tv:8000/irola_irratia.mp3@irola@Irola Irratia Bilbao
+http://giss.tv:8000/radioqk.mp3@radioqk@Radio QK Oviedo
+http://giss.tv:8000/radiorsk.mp3@radiorsk@Radio RSK BCN
+http://giss.tv:8000/radiotopo.mp3@topo@Radio Topo ZGZ
+http://giss.tv:8000/rdc.mp3@linea4@Radio Linea IV BCN
+http://giss.tv:8000/todovigo.ogg@rlvigo@Radio Libre Vigo
+http://giss.tv:8001/radiopirineo.mp3@pirineo@Radio Pirineo Huesca
 http://ice.abradio.cz:80/blanikfm128.mp3@blanikfm128@Found in some gist.
+http://ice.somafm.com/defcon-64.aac@defcon@DEF CON, soma.fm
 http://icecast2.pulsradio.com:80/pulsHD.mp3#Pulse-Radio@Pulse-Radio@Found in some gist.
 http://jblive.fm/@CRAP1@Nothing
 http://laissezradio.com:8880/music@laissezradio@Found on some gist.
@@ -57,6 +70,12 @@ http://pulsar.atlantis.bgx8000/inforadio.ogg.m3u@Star FM@None, russian stuff
 http://pulsar.atlantis.bgx8000/njoy.ogg.m3u@NxJoy@None, russian stuff
 http://pulsar.atlantis.bgx8000/zrock.ogg.m3u@ZxRock@None, russian stuff
 http://radigo01.nci.de:8000/high_q_fallback@high_q_fallback@Found in some gist.
+http://radio.nodo50.org:8001/radioela.mp3@radioela@Radio ELA Madrid
+http://radioaktivat.no-ip.org:8000/radioaktiva.ogg@aktivat@Radio Aktivat Alcoy
+http://radiobronka.info/escuchar@bronka@Radio Bronka BCN
+http://radiolagranja.no-ip.org:8000/@granja@Radio La Granja ZGZ
+http://radiomalva.ddns.net:8000/rmbc.ogg@radiomalva@Radio Malva VLC
+http://radiovallekas.org/emision.m3u@rvallekas@Radio Vallekas
 http://rs21.stream24.net:80/stream@Dunno3@Found in some gist.
 http://rs26.stream24.net:80/stream@Dunno1@Found in some gist.
 http://rs5.stream24.net:8000/stream@Dunno2@Found in some gist.
@@ -84,6 +103,7 @@ http://stream.100000000000000.com:8000/HITS.ogg@Hits@Found in some gist.
 http://stream.bnr.bg:8002/horizont.mp3?type=.mp3/;stream.mp3@horizont@Found in some gist.
 http://stream.bnr.bg:8103/botev_low.mp3#Hristo_Botev@Hristo@Found in some gist.
 http://stream.laut.fm:80/rpm-rock-metal-gothik#RPM-Metal-Gothic@RPM-Metal-Gothic@Found in some gist.
+http://stream.radioalmaina.org:8041/stream@almaina@Radio Almaina Granada
 http://stream.reakcia.net/live.m3u@stuff@None, russian stuff
 http://stream4.topradio.be:8000/zenfm.mp3@zenfm@Found in some gist.
 http://streamhub.radioinfoweb.net:8000/chill#SpaceChill@SpaceChill@Found in some gist.
@@ -101,22 +121,30 @@ http://streaming205.radionomy.com:80/Lounge44@Lounge44@Found in some gist.
 http://streaming205.radionomy.com:80/Soft@Soft@Found in some gist.
 http://streaming205.radionomy.com:80/Sophisticated-Easy-Sounds@Sophisticated-Easy-Sounds@Found in some gist.
 http://streaming205.radionomy.com:80/TheOasis-ModernEasyListening@TheOasis-ModernEasyListening@Found in some gist.
-http://streaming206.radionomy.com:80/hits-on-guitar@hits-on-guitar@Found in some gist.
 http://streaming206.radionomy.com:80/RadioMetal#RadioMetal@RadioMetal@Found in some gist.
-http://streaming207.radionomy.com:80/easy-rock-paradise@easy-rock-paradise@Found in some gist.
+http://streaming206.radionomy.com:80/hits-on-guitar@hits-on-guitar@Found in some gist.
 http://streaming207.radionomy.com:80/EasyTime@EasyTime@Found in some gist.
 http://streaming207.radionomy.com:80/FolkMetalRadio#FolkMetalRadio@FolkMetalRadio@Found in some gist.
 http://streaming207.radionomy.com:80/RADIO-GRAMAX@RADIO-GRAMAX@Found in some gist.
+http://streaming207.radionomy.com:80/easy-rock-paradise@easy-rock-paradise@Found in some gist.
 http://streaming303.radionomy.com:80/mistyradio@mistyradio@Found in some gist.
 http://streaming304.radionomy.com:80/enjoy.mp3@enjoy@Found in some gist.
 http://streamxbgx01.radiotangra.comx8000/Tangraxhigh.m3u@tangra@None, russian stuff
 http://swisslounge.net:8030/lounge-radio@lounge-radio@Found in some gist.
+http://uwstream1.somafm.com:80@Groove Salad@A nicely chilled plate of ambient/downtempo beats and grooves.  
 http://uwstream2.somafm.com:2040@SF 10-33@Ambient music mixed with the sounds of San Francisco public safety radio traffic.  
 http://uwstream2.somafm.com:2666@Space Station Soma@Tune in, turn on, space out. Spaced-out ambient and mid-tempo electronica.  
 http://uwstream2.somafm.com:2668@cliqhop idm@Blipsnbeeps backed mostly w/beats. Intelligent Dance Music.  
 http://uwstream2.somafm.com:5400@Iceland Airwaves@Music from bands who will be performing at Iceland Airwaves [explicit]
 http://uwstream2.somafm.com:80@Drone Zone@Served best chilled, safe with most medications. Atmospheric textures with minimal beats.   
 http://uwstream2.somafm.com:8400@Dub Step Beyond@Dubstep, Dub and Deep Bass. May damage speakers at high volume.  
+http://uwstream2.somafm.com:8406@dubstep@Dubstep, soma.fm
 http://uwstream2.somafm.com:8604@Sonic Universe@Transcending the world of jazz with eclectic, avant-garde takes on tradition.  
 http://uwstream2.somafm.com:9016@Secret Agent@The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too!  
+http://vps66370.ovh.net:8000/mutant.ogg@mutant@Radio Mutant Alacant
 http://www.ibiblio.org/wcpe/wcpe.pls@CLASICA3@Nothing
+http://www.porticoluna.org:8000/contrabanda@contrabanda@Contrabanda FM BCN
+http://www.radioklara.org/emision2.m3u@radioklara@Radio Klara VLC
+http://xstream1.somafm.com:3000@gsalad@Groove Salad, soma.fm
+http://xstream1.somafm.com:8200@spaces@Space Station, soma.fm
+http://xstream1.somafm.com:9010@secret@Secret Agent, soma.fm
