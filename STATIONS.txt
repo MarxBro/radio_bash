@@ -148,3 +148,101 @@ http://www.radioklara.org/emision2.m3u@radioklara@Radio Klara VLC
 http://xstream1.somafm.com:3000@gsalad@Groove Salad, soma.fm
 http://xstream1.somafm.com:8200@spaces@Space Station, soma.fm
 http://xstream1.somafm.com:9010@secret@Secret Agent, soma.fm
+http://188.165.40.142:80@M2 CHILLOUT@ONLY AMBIENT and LOUNGE 
+http://193.227.114.74:2580@CROOZE@Latin
+http://194.232.200.150:8000@FM4@Found somewhere.
+http://195.43.138.143:8000@World Music@SkyFM 
+http://200.43.193.143/vale/.wma@Vale@97.5 Vale  - Argentina
+http://205.188.215.231:8010@SALSASTREAM@Latin
+http://208.53.158.212:80@idobi Radio@Found somewhere.
+http://208.85.242.77:80@PANDASHOWRADIO.COM@Latin
+http://211.200.26.180:8080@Blue FM@New age
+http://213.73.112.71:9000@#MUSIKCLUB@WWW.RAUTEMUSIK.FM 
+http://216.218.147.54:5088@GotRadio New Age@Nuance New age
+http://216.218.147.54:5094@GotRadio Piano Perfect@Piano gay stuff 
+http://222.122.131.56:8000@HAPPYDAY@New age@New age 
+http://64.191.46.5:7327@RadioActitud@Latin
+http://64.237.49.76:8015@977 The Alternative Channel@Found somewhere.
+http://66.175.96.10/ARLOS40P/.wma@HITEROS Caretas@105.5 FM Hit  - Argentina
+http://66.90.121.14:10015@Big R Radio 90s Alternative@Found somewhere.
+http://66.90.121.7:10019@Big R Radio@Erins Chill 
+http://66.90.73.200:8058@Mega Romantica@Latin
+http://67.212.179.138:9018@Viva Fm Vive tu Musica@Latin
+http://72.13.93.117:8070@1FM Channel X@Found somewhere.
+http://72.26.204.28:7598@Guitar Jazz JAZZRADIOcom@Latin
+http://76.73.41.107:8026@La 100 Pura Salsa@Latin
+http://78.159.104.175:80@TechnoBase@24h Techno, Dance 
+http://80.237.203.14:9000@BlitzRadio@Techno Radio 
+http://80.86.106.35:80@ONE FM ROMANIA@Romania DANCE STATION 
+http://87.117.198.86:8000@shoutcast@Latin
+http://87.117.198.88:8000@shoutcast@Found somewhere.
+http://91.121.204.160:8002@54House@You are listening to 54house.fm 
+http://92.48.107.35:8000@LATINO FM EN DIRECTO@Latin
+http://amadeus.telecomdatacenter.com.ar/amadeus/.wma@AMADEUS@103.7 Amadeus  - Argentina
+http://audio2.grupolatinoderadio.com/envivo.ASX?EMI=ARCON@Continental@Continental  - Argentina
+http://cadena3.telecomdatacenter.com.ar/cadena3@CORDOBA@106.9 Cadena 3 Cordoba  - Argentina
+http://elitecomunicacion.net:8100/masradio@Más Radio@Mas radio - Spain
+http://lv3canal1.telecomdatacenter.com.ar/lv3canal1@CORDOBA 2@100.5 Cordoba  - Argentina
+http://lv3canal2.telecomdatacenter.com.ar/lv3canal2@CORDOBA 3@392.3 Radio Popular Cordoba  - Argentina
+http://mega.telecomdatacenter.com.ar/mega/.wma@Mega@98.3 La Mega  - Argentina
+http://ns5.emisionlocal.com/cast/tunein.php/topradio/playlist.asx@Top Cantabria@Cantabria - Spain 
+http://pop.telecomdatacenter.com.ar/pop/.wma@Pop_gay@101.5 Pop  - Argentina
+http://radio10.telecomdatacenter.com.ar/radio10@La10@Radio 10  - Argentina
+http://scfire-dtc-aa02.stream.aol.com:80/stream/1065@Vocal Trance@Vocal Trance -D I G I T A L L Y 
+http://scfire-dtc-aa05.stream.aol.com:80/stream/1002@New Age@New age
+http://scfire-mtc-aa03.stream.aol.com:80/stream/1022@181FM The Buzz@Found somewhere.
+http://scfire-mtc-aa04.stream.aol.com:80/stream/1035@Chillout@Chillout - D I G I T A L L Y 
+http://scfire-mtc-aa05.stream.aol.com:80/stream/1039@ChroniX Aggression@Found somewhere.
+http://scfire-mtc-aa05.stream.aol.com:80/stream/1045@KCRW Music Stream@Found somewhere.
+http://scfire-mtc-aa06.stream.aol.com:80/stream/1003@Trance Channel@Trance - D I G I T A L L Y 
+http://scfire-ntc-aa01.stream.aol.com:80/stream/1052@WWW.RAUTEMUSIK.FM@Found somewhere.
+http://scfire-ntc-aa01.stream.aol.com:80/stream/1082@MUSIKBIGCITYBEATSi@BY BIGCITYBEATS.DE 
+http://scfire-ntc-aa02.stream.aol.com:80/stream/1004@Solo Piano@New age gay stuff
+http://scfire-ntc-aa04.stream.aol.com:80/stream/1015@friskyRadio@feelin frisky? sissy? hmmm? 
+http://streaming.fmrockandpop.com/rockandpop@RockyPop@95.9 RockyPop  - Argentina
+http://wmserver2.aginet.com.ar/FMPALERMO3@FM Palermo@89.1 Radio Mix - Argentina
+http://wmserver3.aginet.com.ar/FMPALERMO1/.wma@Palermo Mirror@99.5 Radio Palermo  - Argentina
+http://www.alsolnet.com/stream/larocka975/vivo.asx@ROCK Cordoba@Rock Cordoba  - Argentina
+mms://2x4.telecomdatacenter.com.ar/2x4/.wma@TANGO 2por4@92.7 La 2x4 Tango  - Argentina
+mms://ondacerolivewm.fplive.net/ondacerowmlive-live/oc_convencional@Radio Onda Cero@Spain 
+mms://radiodisney.telecomdatacenter.com.ar/radioDisney/radiodisney.asx@Disney@94.3 Radio Disney  - Argentina - altamente pedo
+mms://reflector.marca.com:9050@Radio Marca@Spain
+mms://wmedia02.uigc.net/la100/.wma@LA100@99.9 La 100  - Argentina
+http://91.121.120.152:8000@M2SUNSHINE@Reggae
+http://91.121.150.156:7002@Reggae141@Reggae
+http://64.191.46.5:7327@RadioActitud@Reggae
+http://205.234.220.66:7970@Raggakings@Reggae
+http://209.51.161.54:7078@ReggaeTrade@Reggae
+http://205.234.238.42:808@rastamusic 247 Reggae Radio@Reggae
+http://64.71.184.99:7000@2 ReggaeTrade@Reggae
+http://64.191.5.133:10016@BIGUPRADIO@Reggae
+http://87.117.198.87:8000@shoutcast@Reggae
+http://scfire-mtc-aa05.stream.aol.com:80/stream/1017@RootsReggae@Reggae
+http://213.251.166.36:8050@CINEMIX@Soundtracks
+http://83.145.128.37:9000@StreamingSoundtracks@Soundtracks
+http://216.246.14.89:80@GotRadio Soundtracks@Soundtracks
+http://216.218.147.54:5106@GotRadio The Big Score@Soundtracks
+http://94.232.114.240:6774@Simply Soundtracks@Soundtracks
+http://94.23.63.101:7089@CULT CINEMA CLASSICS@Soundtracks
+http://70.33.254.42:8000@MOVIE MAGIC by AMPED FM@Soundtracks
+http://85.25.130.21:8200@THE POWER OF MOODS Relaxation@Soundtracks
+http://209.9.229.207:80@StreamingSoundtrackscom Games@Soundtracks
+http://213.251.166.36:8000@CINEMIX The Spirit of Soundtracks c2@Soundtracks
+http://scfire-ntc-aa03.stream.aol.com:80/stream/1052@MUSIKEXTREME@Metal Fuckers
+http://scfire-dtc-aa07.stream.aol.com:80/stream/1039@ChroniX Aggression - Loud Clear@Metal Fuckers
+http://91.121.201.88:8000@RockRadio1 Classic Hard Rock@Metal Fuckers
+http://66.90.121.7:10013@Big R Radio 80s Metal FM@Metal Fuckers
+http://216.218.159.157:10100@ChroniX Metal@Metal Fuckers
+http://89.149.208.19:6666@METAL ONLY metal-only dot de@Metal Fuckers
+http://85.17.235.2:8782@Gotham Radio The Dark Side of Metal@Metal Fuckers
+http://64.34.172.133:8006@AMPED FM ROCK@Metal Fuckers
+http://scfire-ntc-aa07.stream.aol.com:80/stream/1022@181FM The Buzz@Rock and rollen
+http://scfire-dtc-aa03.stream.aol.com:80/stream/1074@977 The Hitz Channel@Rock and rollen
+http://91.121.8.6:80@ENJOYSTATION France Vichy@Rock and rollen
+http://scfire-dtc-aa07.stream.aol.com:80/stream/1051@MUSIKMAIN RAUTEMUSIKFM@Rock and rollen
+http://216.155.137.150:10002@181The Eagle Classic Rock@Rock and rollen
+http://scfire-dtc-aa05.stream.aol.com:80/stream/1040@977 The 80s Channel@Rock and rollen
+http://scfire-mtc-aa01.stream.aol.com:80/stream/1014@Top Hits Music@Rock and rollen
+http://scfire-ntc-aa06.stream.aol.com:80/stream/1013@80s 80s 80s@Rock and rollen
+http://208.53.158.212:80@idobi Radio@Rock and rollen
+http://91.121.170.103:5678@Chaos Radio the official euIRC Radio@Rock and rollen

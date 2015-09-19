@@ -14,6 +14,8 @@ Los valores en este último están separados por **@** y delimitan los siguiente
 
 Algunas radios pueden no funcionar y el archivo STATIONS necesita una actualizacion.
 
+Son muchas radios y es hora de hacer algo de mayor complejidad...
+
 -------------------------------------------------------
 
 ## English
