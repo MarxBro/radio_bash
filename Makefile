@@ -1,4 +1,4 @@
 all: main
 
 main:
-	gcc -lmenu -lncurses menu.c -o menu
+	gcc -lmenu -lncurses menu.c -o menu.bin

@@ -246,4 +246,4 @@ http://scfire-mtc-aa01.stream.aol.com:80/stream/1014@Top Hits Music@Rock and rol
 http://scfire-ntc-aa06.stream.aol.com:80/stream/1013@80s 80s 80s@Rock and rollen
 http://208.53.158.212:80@idobi Radio@Rock and rollen
 http://91.121.170.103:5678@Chaos Radio the official euIRC Radio@Rock and rollen
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p@BBC 4@https://gist.github.com/hughgrigg/7ab28421f3bf77b430dd
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p@BBC 4@Found here: https://gist.github.com/hughgrigg/7ab28421f3bf77b430dd
