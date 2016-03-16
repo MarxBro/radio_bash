@@ -11,32 +11,13 @@
 #define ARRAY_SIZE(a) (sizeof(a) / sizeof(a[0]))
 #define CTRLD 	4
 
-/**********************************************************************************/
-/* Esta función lee el archivo y devuelve un array para usar con las opciones de  */
-/* ncurses                                                                        */
-/**********************************************************************************/
-/*char read_stations(void) {*/
-/*char line[TOT][BUF];*/
-/*FILE *rlist = NULL; */
-/*int i = 0;*/
-/*int total = 0;*/
-/*rlist = fopen("STATIONS.txt", "r");*/
-/*while(fgets(line[i], BUF, rlist)) {*/
-/**//* get rid of ending \n from fgets */
-/*line[i][strlen(line[i]) - 1] = '\0';*/
-/*i++;*/
-/*}*/
-/*total = i;*/
-/**//*for(i = 0; i < total; ++i)*/
-/**//*printf("%s\n", line[i]);*/
-/*return line;*/
-/*}*/
 
 
 char *choices[BUF];
 char *descriptions[BUF];
 char *uris[BUF];
 void func(char *name);
+char *description_fn ;
 
 int main(){	
     /*read file and save it to choices*/
@@ -48,9 +29,10 @@ int main(){
     while(fgets(line[igt], BUF, rlist)) {
         /* get rid of ending \n from fgets */
         line[igt][strlen(line[igt]) - 1] = '\0';
-        choices[igt]        = line[igt];
-        descriptions[igt]   = line[igt];
-        uris[igt]           = line[igt];
+        char *line_f        = strdup(line[igt]);
+        uris[igt]           = strtok(line_f, "@");
+        choices[igt]        = strtok(NULL, "@");
+        descriptions[igt]   = strtok(NULL,   "@");
         /*printf("%s",choices[igt]);*/
         igt++;
     }
@@ -75,7 +57,7 @@ int main(){
         n_choices = ARRAY_SIZE(choices);
         my_items = (ITEM **)calloc(n_choices + 1, sizeof(ITEM *));
         for(i = 0; i < n_choices; ++i) {
-            my_items[i] = new_item(choices[i], choices[i]);
+            my_items[i] = new_item(choices[i],descriptions[i]);
 		    /* Set the user pointer */
 		    set_item_userptr(my_items[i], func);
 	    }
@@ -83,9 +65,10 @@ int main(){
 
 	/* Create menu */
 	my_menu = new_menu((ITEM **)my_items);
+    set_menu_opts(my_menu,O_SHOWDESC);
 
 	/* Post the menu */
-	mvprintw(LINES - 3, 0, "Press <ENTER> to see the option selected");
+	mvprintw(LINES - 3, 0, "Press <ENTER> to play the station");
 	mvprintw(LINES - 2, 0, "Up and Down arrow keys to naviage (F1 to Exit)");
 	post_menu(my_menu);
 	refresh();
@@ -103,6 +86,7 @@ int main(){
 				void (*p)(char *);
 
 				cur = current_item(my_menu);
+                description_fn = item_description(cur);
 				p = item_userptr(cur);
 				p((char *)item_name(cur));
 				pos_menu_cursor(my_menu);
@@ -118,9 +102,18 @@ int main(){
 	endwin();
 }
 
-void func(char *name) {	
+void func(char *name){
     move(20, 0);
 	clrtoeol();
-	mvprintw(20, 0, "Item selected is : %s", name);
+    int indice = findIndex(choices,sizeof choices,name);
+	mvprintw(20, 0, "The selected Radio is : %30s", name);
+	mvprintw(22, 0, "%s", "-------------------------");
+    mvprintw(25, 0, "%55s", description_fn);
+    mvprintw(27, 0, "%55s", uris[indice]);
 }	
 
+int findIndex(int *array, size_t size, int target) {
+    int ij=0;
+    while((ij<size) && (array[ij] != target)) ij++;
+    return (ij<size) ? (ij) : (-1);
+}
