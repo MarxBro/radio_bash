@@ -137,8 +137,9 @@ int main(){
 
 void func(char *name){
     /*clean up */
-    for (int asd=0; asd<= 11; asd++){
-        move(LINES - asd, 0);
+    for (int asd = 1; asd <= 5; asd++){
+        // plus 5 so we dont delete the help each time.
+        move(LINES - (asd + 6), 0);
         clrtoeol();
     }
     int elementos = sizeof (choices) / sizeof (choices[0]);
@@ -156,12 +157,7 @@ void func(char *name){
     /*Flechas macristas (a la derecha)*/
     mvaddch(LINES -9, 12,ACS_RARROW);
     mvaddch(LINES -7, 4, ACS_RARROW);
-    /*Help thingy*/
-    hacete_una_linea_putin(5);
-	mvprintw(LINES - 4, 0, " Press <ENTER> to play the station,");
-	mvprintw(LINES - 3, 0, " any <arrow> to move the menu buffer, <Q> to Quit or");
-	mvprintw(LINES - 2, 0, " <K> to Kill child mplayer process.");
-    hacete_una_linea_putin(1);
+    hacete_una_linea_putin(6);
 }	
 /*Play the radio as a forked process,*/
 void play_radio (void){

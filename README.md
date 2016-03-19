@@ -16,6 +16,12 @@ Algunas radios pueden no funcionar y el archivo STATIONS necesita una actualizac
 
 Son muchas radios y es hora de hacer algo de mayor complejidad...
 
+## Nueva interface ncurses
+
+Vamos carajo!
+
+Todavía es experimental (aka chiotta).
+
 -------------------------------------------------------
 
 ## English
@@ -32,3 +38,16 @@ Values in it are separated by **@**, delimiting fields as follow:
 
 
 Some radios may not work and the STATIONS file needs an update.
+
+## New ncurses interface!
+
+Yay!
+
+Quite experimental (aka buggy).
+
+
+
+# TO-DO
+
+* Clean the damn file from useless stations.
+* Make a proper descriptions of the working ones.
