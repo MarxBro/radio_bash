@@ -79,6 +79,7 @@ int main(){
     set_menu_format(my_menu,y_lines_menu,1);
 
 	/* Post the menu */
+    /*Help thingy*/
     hacete_una_linea_putin(5);
 	mvprintw(LINES - 4, 0, " Press <ENTER> to play the station,");
 	mvprintw(LINES - 3, 0, " any <arrow> to move the menu buffer, <Q> to Quit or");
@@ -135,8 +136,11 @@ int main(){
 }
 
 void func(char *name){
-    move(20, 0);
-	clrtoeol();
+    /*clean up */
+    for (int asd=0; asd<= 11; asd++){
+        move(LINES - asd, 0);
+        clrtoeol();
+    }
     int elementos = sizeof (choices) / sizeof (choices[0]);
     int indice;
     for(indice = 0; indice < sizeof(choices) / sizeof(choices[0]); indice++) {
@@ -145,12 +149,6 @@ void func(char *name){
         }
     }
     radio_current = uris[indice];
-    /**//*Silly clean-up.*/
-    /*for (int bi = 0; bi <= 5; bi++){*/
-    /*if (! ( bi >-4 ) ) { // leave the instructions (as it wont be a "help command") :P*/
-    /*mvprintw(LINES -(bi), 0, "%-100s", " ");*/
-    /*}*/
-    /*}*/
     hacete_una_linea_putin(10);
 	mvprintw(LINES -9 , 0, "Now Playing   %s", name);
     mvprintw(LINES -8 , 0, "%s", description_fn);
@@ -158,11 +156,17 @@ void func(char *name){
     /*Flechas macristas (a la derecha)*/
     mvaddch(LINES -9, 12,ACS_RARROW);
     mvaddch(LINES -7, 4, ACS_RARROW);
+    /*Help thingy*/
+    hacete_una_linea_putin(5);
+	mvprintw(LINES - 4, 0, " Press <ENTER> to play the station,");
+	mvprintw(LINES - 3, 0, " any <arrow> to move the menu buffer, <Q> to Quit or");
+	mvprintw(LINES - 2, 0, " <K> to Kill child mplayer process.");
+    hacete_una_linea_putin(1);
 }	
 /*Play the radio as a forked process,*/
 void play_radio (void){
     char comando[200]; 
-    snprintf(comando, sizeof comando, "mplayer %s -really-quiet 2>/dev/null", radio_current);
+    snprintf(comando, sizeof comando, "mplayer %s -really-quiet 2>/dev/null &", radio_current);
     if ((pid = fork()) == 0){
         system(comando);
         pid = getpid();
