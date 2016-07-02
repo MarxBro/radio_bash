@@ -61,7 +61,7 @@ http://live.profm.bgx8000/blues.mp3.m3u@5 Pro FM Rhythm and Blues@None, russian 
 http://live.profm.bgx8000/chillout.mp3.m3u@4 Pro FM Chillout@None, russian stuff
 http://live.profm.bgx8000/gold.mp3.m3u@3 Pro FM Gold@None, russian stuff
 http://live.profm.bgx8000/love.mp3.m3u@2 Pro FM Love@None, russian stuff
-http://live.profm.bgx8000/oldies.mp3.m3u@1 Pro FM Oldies@None, russian stuff
+http://live.profm.bgx8000/oldies.mp3.m3u@Metal Sometimes@None, russian stuff
 http://live.profm.bgx8000/rock.mp3.m3u@Pro FM Rock@None, russian stuff
 http://livestreaming2.esradio.fm:8000/stream64.mp3@stream64@Found in some gist.
 http://mp3.orbitel.bgx8000/darik.m3u@gxxxxdarik@None, russian stuff
