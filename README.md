@@ -1,6 +1,5 @@
-#RADIO.sh
+# RADIO.sh
 
-## Español
 
 Simple script en bash para reproducir streaming-radio usando mplayer.
 
@@ -22,32 +21,15 @@ Vamos carajo!
 
 Todavía es experimental (aka chiotta).
 
--------------------------------------------------------
-
-## English
-
-Simple bash script to play streaming radios using mplayer.
-
-It requires the STATIONS file. 
-
-Values in it are separated by **@**, delimiting fields as follow:
-
-* URL
-* NAME
-* Description
-
-
-Some radios may not work and the STATIONS file needs an update.
-
-## New ncurses interface!
-
-Yay!
-
-Quite experimental (aka buggy).
-
-
-
 # TO-DO
 
-* Clean the damn file from useless stations.
-* Make a proper descriptions of the working ones.
+* Limpir las radios que no funkan
+* Describir las que si lo hacen con un poco mas de amor...
+
+
+# NOTA
+
+You dont need any of this tho, use:
+
+    grep 'Folk' STATIONS.txt | awk -F@ '{print $1}' 
+    grep 'Folk' STATIONS.txt | awk -F@ '{print $1}' |  xargs -I{} mplayer {} # If you're super sure
